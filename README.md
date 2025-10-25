@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumukha-rao-h&label=Profile%20views&color=0e75b6&style=flat" alt="sumukha-rao-h" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumukha-rao-h" alt="sumukha-rao-h" /></a> </p>
-
 - 🔭 I’m currently working on **FullStack projects using NEXTJs**
 
 - 🌱 I’m currently learning **Go, Devops**
